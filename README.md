@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif)
 <h1 align="center">Hi 👋, I'm Arpit Bhatt</h1>
-<h3 align="center">A passionate DevOps Engineer based in the U.K</h3>
-<h3 align="center">AWS Certified Cloud Practitioner</h3>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/6541df_33c09fe8bb5e4a6bbb79490cc1fb5d8d~mv2.gif">
